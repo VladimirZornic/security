@@ -1,0 +1,91 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "name": "Vimtag VT-361 PTZ Cloud Camera" ,
+            "shortName":"Vimtag",
+            "description": "The Vimtag VT-361 HD home security camera is a smart investment for any homeowner. Along with the great range of motion and two-way audio highlighted in the chart, the VT-361 has a 3x digital zoom function. This kind of control is rare among stand-alone cameras. The VT-361 has 720p resolution, and while that’s not the highest available, it’s still considered high definition, so you should have no problems with image clarity. The best part about this indoor security camera is the price—it comes in at under $100. It also gets strong customer reviews on Amazon with an average rating of 4.1 stars from over 4,800 ratings.",
+            "prefix": "cam1",
+            "sufix": ".png",
+            "conect":"Wi-Fi",
+            "view": "120",
+            "video_resolution":"720",
+            "frames": "25",
+            "notification":["Email","Push"],
+            "storage":["SD card"],
+            "smart_home":[],
+            "alarm":"yes",
+            "two_way_audio":"yes"
+        },
+        {
+            "id": 2,
+            "name": "Frontpoint Ultimate" ,
+            "shortName":"Frontpoint",
+            "description": "Frontpoint makes our spotlight for the great reputation its home security systems have among customers. The system has both indoor and outdoor camera options and also has pan and tilt capabilities on its indoor cameras. Frontpoint systems are all self-install systems. But, for anyone who needs a little help, Frontpoint offers installation tutorials for all its for all its components. Although the start-up costs for Frontpoint are high, the monthly monitoring fee is lower than most, so you can make up the difference over time. If you want a comprehensive home security system and good customer service, Frontpoint is the perfect choice.",
+            "prefix": "cam2",
+            "sufix": ".png",
+            "conect":"Wired/Wi-Fi",
+            "view": "90",
+            "video_resolution":"1080",
+            "frames": "30",
+            "notification":["Push"],
+            "storage":["Cloud","SD card"],
+            "smart_home":["Amazon Alexa","IFTTT"],
+            "alarm":"yes",
+            "two_way_audio":"yes"
+        },
+        {
+            "id": 3,
+            "name": "Nest Cam Indoor" ,
+            "shortName":"Nest",
+            "description": "While the Nest Cam is one of the more expensive stand-alone security cameras for home use, it makes our list for high resolution and its seamless integration with the rest of the Nest home automation suite. It has two-way talk capability and an incredible 8x digital zoom. The Nest Cam doesn’t have any pan or tilt capabilities, but with its enormous 130° field of view, the motion isn’t as necessary. Although the Nest Cam costs nearly $200, you can find discounts for ordering multiple units at once. Its average rating on Amazon is 4.2 stars with over 6,000 ratings.",
+            "prefix": "cam3",
+            "sufix": ".png",
+            "conect":"Wired/Wi-Fi",
+            "view": "130",
+            "video_resolution":"1080",
+            "frames": "30",
+            "notification":["Email","Push"],
+            "storage":["Cloud"],
+            "smart_home":["Amazon Alexa","IFTTT"],
+            "alarm":"yes",
+            "two_way_audio":"yes"
+        },
+        {
+            "id": 4,
+            "name": "Arlo Wire-Free VMS3130" ,
+            "shortName":"Arlo",
+            "description": "",
+            "prefix": "cam4",
+            "sufix": ".png",
+            "conect":"Wired",
+            "view": "110",
+            "video_resolution":"720",
+            "frames": "24",
+            "notification":["Email","Push"],
+            "storage":["Cloud"],
+            "smart_home":[],
+            "alarm":"no",
+            "two_way_audio":"no"
+        },
+        {
+            "id": 5,
+            "name": "D Link Pan & Tilt Wi-Fi Camera DCS-5020L" ,
+            "shortName":"DLinkPan",
+            "description": "",
+            "prefix": "cam5",
+            "sufix": ".png",
+            "conect":"Wired",
+            "view": "55",
+            "video_resolution":"VGA",
+            "frames": "20",
+            "notification":["Email"],
+            "storage":[],
+            "smart_home":[],
+            "alarm":"no",
+            "two_way_audio":"no"
+        }
+    ]
+
+    
+}
